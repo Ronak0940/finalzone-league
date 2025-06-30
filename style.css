@@ -66,3 +66,19 @@ footer {
   background-color: #1a1a1a;
   color: #bbb;
 }
+
+
+.register-btn {
+  display: inline-block;
+  padding: 12px 25px;
+  font-size: 1.1rem;
+  background-color: #9c27b0;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+.register-btn:hover {
+  background-color: #7b1fa2;
+}
