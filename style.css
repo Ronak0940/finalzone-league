@@ -55,18 +55,12 @@ ul li {
   border-radius: 8px;
 }
 
-iframe {
-  border: none;
-  border-radius: 10px;
-}
-
 footer {
   text-align: center;
   padding: 20px;
   background-color: #1a1a1a;
   color: #bbb;
 }
-
 
 .register-btn {
   display: inline-block;
