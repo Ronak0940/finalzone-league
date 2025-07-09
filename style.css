@@ -87,6 +87,7 @@ footer a:hover {
   text-decoration: underline;
 }
 
+/* 🔗 Social Media Icons */
 .social-icons {
   margin: 15px 0;
   display: flex;
@@ -109,6 +110,7 @@ footer a:hover {
   color: white;
 }
 
+/* 📱 Responsive */
 @media (max-width: 600px) {
   h1 {
     font-size: 1.8rem;
